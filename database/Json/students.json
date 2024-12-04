@@ -1,0 +1,28 @@
+[
+    {
+        "stdname" : "Naveen",
+        "stdemail" : "naveen.businesslabs@gmail.com",
+        "stdmarks" :"600"  
+    },
+    {
+        "stdname" : "Anu",
+        "stdemail" : "anu.businesslabs@gmail.com",
+        "stdmarks" :"599"  
+    },
+    {
+        "stdname" : "Diva",
+        "stdemail" : "divya.businesslabs@gmail.com",
+        "stdmarks" :"399"  
+    },
+    {
+        "stdname" : "sai",
+        "stdemail" : "sai.businesslabs@gmail.com",
+        "stdmarks" :"599"  
+    },
+    {
+        "stdname" : "Raju",
+        "stdemail" : "raju.businesslabs@gmail.com",
+        "stdmarks" :"499"  
+    }
+
+]
